@@ -1,0 +1,3 @@
+#include "Debug.xcconfig"
+PRODUCT_BUNDLE_IDENTIFIER=com.example.flutterPlayground.dev
+PRODUCT_NAME=[dev]flutter_playground

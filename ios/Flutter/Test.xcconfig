@@ -1,0 +1,3 @@
+#include "Debug.xcconfig"
+PRODUCT_BUNDLE_IDENTIFIER=app.hotekan.facility.development
+DISPLAY_NAME=[dev]flutter_playground
